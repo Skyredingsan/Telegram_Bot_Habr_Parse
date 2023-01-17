@@ -1,0 +1,1 @@
+from .parse import check_news_update
